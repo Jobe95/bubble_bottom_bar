@@ -26,10 +26,9 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   late int currentIndex;
-  
+
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     currentIndex = 0;
   }
